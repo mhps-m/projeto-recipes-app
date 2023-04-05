@@ -15,6 +15,7 @@ overflow-y: scroll;
 ::-webkit-scrollbar {
   display: none;
 }
+scrollbar-width: none;
 `;
 
 export const buttonRedirect = styled.button`

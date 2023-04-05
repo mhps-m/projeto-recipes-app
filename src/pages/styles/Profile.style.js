@@ -8,10 +8,12 @@ background-color: white;
 top: 50%;
 left: 50%;
 transform: translate(-50%, -50%);
-overflow-y: scroll;
+overflow-y: hidden;
 ::-webkit-scrollbar {
   display: none;
 }
+scrollbar-width: none;
+overflow-x: hidden;
 `;
 
 export const pageTitle = styled.h3`

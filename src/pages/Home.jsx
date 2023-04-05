@@ -25,10 +25,10 @@ function Home() {
       </S.buttonRedirect>
 
       <S.linkedinGitContainer>
-        <a href="https://www.linkedin.com/in/erick-argollo/" target="_blank" rel="noreferrer">
+        <a href="https://www.linkedin.com/in/miguel-soares-dev/" target="_blank" rel="noreferrer">
           <S.linkedinImg src={ linkedin } alt="linkedin" />
         </a>
-        <a href="https://github.com/ErickArgollo" target="_blank" rel="noreferrer">
+        <a href="https://github.com/mhps-m" target="_blank" rel="noreferrer">
           <S.githubImg src={ github } alt="github" />
         </a>
       </S.linkedinGitContainer>

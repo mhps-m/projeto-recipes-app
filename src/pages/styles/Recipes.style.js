@@ -12,6 +12,7 @@ overflow-y: scroll;
 ::-webkit-scrollbar {
   display: none;
 }
+scrollbar-width: none;
 overflow-x: hidden;
 
 `;
