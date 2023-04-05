@@ -4,7 +4,7 @@ Olá pessoas! Esse projeto desenvolvido como parte da grade curricular do curso 
 
 O App de Receitas é uma aplicação front-end desenvolvida em React, com React Hooks e Context API para gerenciar os estados do app.
 
-Você poderá pesquisar várias receitas de pratos e drinks usando diversas categorias e filtros, favoritá-las e registrar o seu progresso em prepará-las.
+Você poderá pesquisar várias receitas de pratos e drinks usando diversas categorias e filtros, favoritá-las e registrar o seu progresso em prepará-las. Tudo isso estilizado como na tela de um celular (mas não responsiva, infelizmente 😅 é apenas um mock).
 
 Só tenho a agradecer aos meus colegas [Erick Argollo](https://github.com/ErickArgollo), [Bruna Baptista](https://github.com/BrunaBap), [Gustavo Rossin](https://github.com/gustavo-rossin) e [Paulo Felipe](https://github.com/Pflpcamp). Sem eles esse projeto seria impossível de realizar em tempo hábil e todos nós nos dedicamos e quebramos a cabeça pensando em como resolver os desafios propostos pelo projeto.
 
